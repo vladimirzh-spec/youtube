@@ -1,0 +1,29 @@
+[33mcommit 40f2fbd4961636d557e0b0929cc605df6c1d7a88[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: vladimirzh-spec <vladimir.zharinov@gmail.com>
+Date:   Sat Dec 27 09:16:44 2025 +0700
+
+    delete line02&test02
+
+[33mcommit 0eecd59a71ec11f9113d59c0e10ed3109315c2e7[m
+Author: vladimirzh-spec <vladimir.zharinov@gmail.com>
+Date:   Sat Dec 27 08:13:31 2025 +0700
+
+    add gitignore
+
+[33mcommit 113972908818607784c3e688095050661a318b4a[m
+Author: vladimirzh-spec <vladimir.zharinov@gmail.com>
+Date:   Sat Dec 27 07:38:58 2025 +0700
+
+    add line&test in file01
+
+[33mcommit a31e294b093c59dde6bc376a4e9eaa1ca5c5d94b[m
+Author: vladimirzh-spec <vladimir.zharinov@gmail.com>
+Date:   Fri Dec 26 19:30:32 2025 +0700
+
+    add line01
+
+[33mcommit d87ad1379500f8503e1a2db7287b9364bb80573f[m
+Author: vladimirzh-spec <vladimir.zharinov@gmail.com>
+Date:   Fri Dec 26 19:17:30 2025 +0700
+
+    Init Commit
